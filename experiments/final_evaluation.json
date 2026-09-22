@@ -1,0 +1,8 @@
+{
+  "validation_cross_entropy": 1.6833441281318664,
+  "perplexity": 5.383529113283511,
+  "validation_seed": 42,
+  "num_batches": 100,
+  "batch_size": 16,
+  "sequence_length": 256
+}

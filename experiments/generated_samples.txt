@@ -1,0 +1,121 @@
+PROMPT: Once upon a time
+TEMPERATURE: 0.5
+TOP_P: 0.9
+Once upon a time, there was a little girl named Lily. She loved to play outside in the park with her friends. One day, Lily's mom told her they were going on a picnic with her friends. Lily was excited to help her mom.
+
+When they arrived at the park, Lily saw a big slide. She ran to it and climbed up the ladder. She was so happy to slide down the slide. But then, she saw a boy who was being mean to Lily. He was not nice. Lily felt sad and wanted to help him.
+
+Lily remembered her mom's words and felt bad. She realized that it's important to be kind and help others. She decided to share her toys with the boy and they became friends. They played together and had fun. Lily learned that it
+--------------------------------------------------------------------------------
+
+PROMPT: Once upon a time
+TEMPERATURE: 0.8
+TOP_P: 0.9
+Once upon a time, there was a little girl named Lily. She loved to play with her toys and have fun. One day, her mom asked her to help with the laundry. Lily was happy to help and started to help her mom. 
+
+As they were putting the clothes in the basket, Lily saw a jar of laundry on the shelf. She asked her mom to help her put the laundry in the laundry basket. Her mom was happy to help and together they got all the clothes. 
+
+After they finished, Lily's mom asked her to wash the clothes and put them on the floor. Lily was so excited to help her mom. She put on her favorite pink dress and her mom got a big, yellow umbrella. They got the hang of it and hung it up in the closet. 
+
+
+--------------------------------------------------------------------------------
+
+PROMPT: Once upon a time
+TEMPERATURE: 1.0
+TOP_P: 0.95
+Once upon a time there was a little girl called Lily. She wanted to go out and play in the forest with her toy truck. She asked her mom and dad if she could go, and her mom said no. But Lily decided that was too easy to put her toy truck down.
+
+So, her mom took her to a big forest. The forest had lots of things to carry around. There were lots of animals and lots of exciting things. One of them was a squirrel and she was very impressed. She waved at the animals and the children, who were so impressed!
+
+Suddenly, Lily had an idea. She said, "I know! I'll show my bunny to people who are out here in the forest. It's easy!" The animals listened to her as she showed her the way
+--------------------------------------------------------------------------------
+
+PROMPT: Once upon a time
+TEMPERATURE: 1.2
+TOP_P: 0.95
+Once upon a time, there was a little girl named Lily. She loved flowers and would visit the flowers for her garden. One day, her mommy asked her to please come and brought a cake for her. Lily was very happy and wanted to mix the cake right away. She poured water everywhere and stirred it all over the table with a straw bag. It was a lovely piece of cake, cupcakes spilled out of it on the floor and into a beautifully completeion! Lily's mommy brought the cake to the kitchen, but it wasn't good enough to have enough food. 
+
+Lily learned that day that sometimes things we need can be good as hard, and we can have something delicious to feed the lady. She was happy because she made a new friend and they had a fun picnic together together in the garden.
+--------------------------------------------------------------------------------
+
+PROMPT: Once upon a time
+TEMPERATURE: 1.0
+TOP_P: 1.0
+Once upon a time, there was a cute fox. He lived in a big forest and he liked to explore. One day, he came across a mysterious forest.
+
+The fox was feeling dizzy because he wanted to take a nap but he could not find anything. He asked a rabbit and the rabbit said, "But sleeping, what are you doing? It's very cold outside!"
+
+The fox replied, "If you nap in the forest, you need to sleep and be warm. You just need a rest and sleep. Then you will feel better and see what is up there."
+
+ hunter went to the forest and found a warm, warm blanket. He sat under a big tree and started to have some hidden juice. He was no longer dizzy and fell asleep.
+
+When he woke up
+--------------------------------------------------------------------------------
+
+PROMPT: One day, Mia
+TEMPERATURE: 0.5
+TOP_P: 0.9
+One day, Mia's mom took her to a special place. It was a big building with lots of windows and doors. Mia was very excited to see it.
+
+Mia's mom said, "Mia, let's go inside and see what we can find." Mia was very excited.
+
+Mia and her mom went inside the building. They looked at all the things they had seen and were very pretty. Mia was so happy that she started to laugh.
+
+Mia's mom said, "It's time to go inside, Mia. We have to go inside now."
+
+Mia was sad to leave, but she knew her mom was right. She went inside and put on her shoes. Mia was happy because she got to see the pretty building.<|endoftext|>
+--------------------------------------------------------------------------------
+
+PROMPT: One day, Mia
+TEMPERATURE: 0.8
+TOP_P: 0.9
+One day, Mia saw a big red ball near a tree. She wanted to play with it. She did not know what to do. She did not know what to do.
+
+She ran to her mom and said, "Mom, mom, can you help me? The big red ball is on the tree. It is very pretty. Do you want to play with me?" Her mom smiled and said, "Yes, I can. But first, let's go to the tree and play with the ball. It is a nice ball."
+
+Mia and her mom went to the tree. They played with the ball. They threw it to each other. They had fun. Mia was happy. She said, "Thank you, mom, for helping me. You are the best." Her mom said
+--------------------------------------------------------------------------------
+
+PROMPT: One day, Mia
+TEMPERATURE: 1.0
+TOP_P: 0.95
+One day, Mia went out to explore with her mother and they saw a beautiful new white vine hanging from the trees.
+
+Mia's mother said, "That looks like a regular patch. It's like no other grassy."
+
+Mia smiled.
+
+Mia wanted to see the mysterious white flowers but then it started to rain. She said to her mom, "I want to cover ourselves with this patch."
+
+Her mother said, "I know you take care of the flowers in the rain, it will bloom and become sweet. But if you make a lanter in the patch the way it rains, we will get a wet new flower in no time."
+
+Mia smiled and said, "Yes, I will! I will work hard, and it will become so much more graceful."
+--------------------------------------------------------------------------------
+
+PROMPT: One day, Mia
+TEMPERATURE: 1.2
+TOP_P: 0.95
+One day, Mia sees a new theater. It is very big and colorful. It has shiny lights, eyes and silver bars. It is not real anywhere else. It is someone gift from how it opens." Mia says, as she points to the entrance.
+
+"One fan is beep!" Mia says, pretending to play one. "What when people tell us? And watch too many kids."
+
+Mia frowns. She does not understand. She wants to watch the exhaw show. She runs to the door and asks Mom.
+
+"Can I go and see your cord, Mom?" she asks.
+
+"Yes, you can," Mom says. "It is sweet and pretty. You just need to draw it every day and listen to the other music," Mia says.
+
+
+--------------------------------------------------------------------------------
+
+PROMPT: One day, Mia
+TEMPERATURE: 1.0
+TOP_P: 1.0
+One day, Mia went outside to collect some pretty flowers. She wanted to make a flower garden from the purple flower.
+
+Mia walked slowly to the garden. She looked around. After a few minutes, Mia came near. Mia smiled and ran to pick the flower. She found its sharp yellow petals and carefully picked one.
+
+When Mia touched the flower, it was soft and delicate. She was happy because she liked the flower. Mia liked how pretty it made her flower beautiful. She put it in the sun to polish it.
+
+From that day on, Mia would admire the flower's beauty of life.<|endoftext|>
+--------------------------------------------------------------------------------
